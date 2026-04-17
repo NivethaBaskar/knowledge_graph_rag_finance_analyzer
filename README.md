@@ -7,7 +7,7 @@ An AI-powered financial analyzer that transforms your semi-structured bank state
 *   **Knowledge Graph RAG**: Uses an adaptive AI engine to translate natural language into Cypher queries.
 *   **Deep Financial Analytics**:
     *   Filter by **Person** (e.g., "Nivetha").
-    *   Search by **Name/Vendor** (e.g., "Athish", "Amazon").
+    *   Search by **Name/Vendor** (e.g., "John", "Amazon").
     *   Analyze by **Amount** (e.g., "Under 500").
     *   Time-based queries (Month/Date wise).
 *   **Modern Workspace**: A bright, premium Streamlit dashboard with real-time metrics and query suggestions.
