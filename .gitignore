@@ -4,6 +4,7 @@
 venv/
 ENV/
 env/
+data/acc_statements
 
 # Python
 __pycache__/
