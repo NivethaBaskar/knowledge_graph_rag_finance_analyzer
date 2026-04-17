@@ -1,0 +1,22 @@
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Neo4j / DB
+neo4j/
+data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Other
+.ipynb_checkpoints/
